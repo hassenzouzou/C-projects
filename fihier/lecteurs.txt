@@ -1,5 +1,0 @@
-ID	Nom		Email
-1	zouzou	hassen@gmail.com
-2	bou	bou@gmail.com
-3	bl	bl@gmial.com
-4	romi	romi@gmail.com
